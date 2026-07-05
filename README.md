@@ -48,8 +48,9 @@ My work centres on **Enterprise AI Systems Engineering** — turning what today 
 
 ## Writing
 
-- Medium — <TODO: https://medium.com/@your-handle>
-- LinkedIn — <TODO: https://www.linkedin.com/in/your-handle>
+- Medium — https://medium.com/@dkaarthick
+- LinkedIn — https://www.linkedin.com/in/dkaarthick
+  
 
 ## Speaking
 
